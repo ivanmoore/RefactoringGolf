@@ -9,3 +9,7 @@ target
 .DS_Store
 .gradle
 build
+/Csharp/.vs/RefactoringGolf/v15/
+/Csharp/RefactoringGolf/obj/
+/Csharp/RefactoringGolf/bin/
+/Csharp/RefactoringGolf/*.csproj.user

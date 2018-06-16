@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringGolf", "RefactoringGolf\RefactoringGolf.csproj", "{252168AF-B7EE-4F5C-8677-B31104CBE13A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252168AF-B7EE-4F5C-8677-B31104CBE13A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252168AF-B7EE-4F5C-8677-B31104CBE13A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252168AF-B7EE-4F5C-8677-B31104CBE13A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252168AF-B7EE-4F5C-8677-B31104CBE13A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF666B81-C45C-4B11-9ED0-49A5115327FC}
+	EndGlobalSection
+EndGlobal
