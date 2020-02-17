@@ -18,7 +18,7 @@ public class Hole2After {
         int amount = Integer.parseInt(parts[1]);
 
         Instruction instruction = null;
-        if (direction.equals("foward")) {
+        if (direction.equals("forward")) {
             instruction = new MoveInstruction(amount);
         }
         if (direction.equals("left")) {

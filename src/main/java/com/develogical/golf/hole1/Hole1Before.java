@@ -17,7 +17,7 @@ public class Hole1Before {
         String direction = parts[0];
         String amount = parts[1];
 
-        if (direction.equals("foward")) {
+        if (direction.equals("forward")) {
             instructions.add(new MoveInstruction(Integer.parseInt(amount)));
         }
         if (direction.equals("left")) {
