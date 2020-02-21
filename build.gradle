@@ -6,15 +6,13 @@ version = '1.0.0'
 
 description = """RefactoringGolf"""
 
-sourceCompatibility = 1.7
-targetCompatibility = 1.7
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
 tasks.withType(JavaCompile) {
 	options.encoding = 'UTF-8'
 }
 
-
-
 repositories {
-        
      maven { url "http://repo.maven.apache.org/maven2" }
 }
